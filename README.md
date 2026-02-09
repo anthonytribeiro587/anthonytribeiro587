@@ -1,16 +1,76 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Anthony Ribeiro
 
-<!--
-**anthonytribeiro587/anthonytribeiro587** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **JavaScript Full Stack Developer**
+🚀 Construindo SaaS e Sistemas Web de Gestão
+📍 Brasil
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mim
+
+Sou desenvolvedor focado em aplicações web utilizando JavaScript end-to-end.
+
+Atualmente estou desenvolvendo plataformas SaaS voltadas para:
+
+* Gestão de manutenção predial
+* Projetos sociais
+* Sistemas de agendamento
+* Dashboards administrativos
+
+Meu foco é criar sistemas reais que resolvem problemas operacionais de empresas e instituições.
+
+---
+
+## 🛠️ Stack Principal
+
+**Front-end**
+
+* HTML
+* CSS
+* JavaScript
+* Next.js
+
+**Back-end**
+
+* Node.js
+* Supabase
+* APIs REST
+
+**Outros**
+
+* Git & GitHub
+* PDF generation
+* Dashboards & Admin Panels
+
+---
+
+## 📌 Projetos em Destaque
+
+🔧 **SaaS Manutenção Predial**
+Sistema para gestão de orçamentos, serviços e relatórios técnicos.
+
+📦 **Gestão de Cestas Sociais**
+Plataforma para controle de famílias, estoque e entregas.
+
+📅 **Sistema de Agendamento**
+Gestão de reservas para retiros e eventos.
+
+📡 **SCADA Monitoring Dashboard**
+Interface web para monitoramento industrial.
+
+---
+
+## 🎯 Objetivo
+
+Evoluir como desenvolvedor Full Stack especializado em JavaScript, criando SaaS escaláveis e soluções web profissionais.
+
+---
+
+## 📫 Contato
+
+* LinkedIn: https://www.linkedin.com/in/anthonytcribeiro
+* Email: anthony.tribeiro587@gmail.com
+
+---
+
+⭐ Sempre construindo, aprendendo e versionando.
