@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="./banner.png" />
+  <img src="./banner.png" width="100%" />
 </p>
+
 
 
 # 👋 Olá, eu sou o Anthony Ribeiro
