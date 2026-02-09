@@ -55,9 +55,6 @@ Plataforma para controle de famílias, estoque e entregas.
 📅 **Sistema de Agendamento**
 Gestão de reservas para retiros e eventos.
 
-📡 **SCADA Monitoring Dashboard**
-Interface web para monitoramento industrial.
-
 ---
 
 ## 🎯 Objetivo
