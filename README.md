@@ -18,7 +18,6 @@ Sou desenvolvedor focado em aplicações web utilizando JavaScript end-to-end.
 
 Atualmente estou desenvolvendo plataformas SaaS voltadas para:
 
-* Gestão de manutenção predial
 * Projetos sociais
 * Sistemas de agendamento
 * Dashboards administrativos
@@ -50,13 +49,7 @@ Meu foco é criar sistemas reais que resolvem problemas operacionais de empresas
 
 ---
 
-## 📌 Projetos em Destaque
-
-🔧 **SaaS Manutenção Predial**
-Sistema para gestão de orçamentos, serviços e relatórios técnicos.
-
-📦 **Gestão de Cestas Sociais**
-Plataforma para controle de famílias, estoque e entregas.
+## 📌 Projeto em Destaque
 
 📅 **Sistema de Agendamento**
 Gestão de reservas para retiros e eventos.
